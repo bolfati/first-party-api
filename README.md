@@ -1,1 +1,1 @@
-# first-party-api
+# third party api
